@@ -1,5 +1,7 @@
 # Stepmania 5.0 Convention Mode
 
+Theme is developed and tested on [Stepmania 5.0.12](https://www.stepmania.com/download/).
+
 ## Enable modded theme
 - Options (Scroll Lock)
     - Display Options
